@@ -1,0 +1,13 @@
+# Pre-trained models
+Models/
+deeplab_model/
+models/
+
+# images
+*.png
+*.jpg
+*.jpeg
+!sample_data/inputs/*
+
+# python
+__pycache__*
